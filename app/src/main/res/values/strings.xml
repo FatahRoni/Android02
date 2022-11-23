@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas02</string>
+    <string name="login">Login</string>
+    <string name="login2">Silahkan masukkan username dan password terdaftar Anda untuk melakukan login</string>
+    <string name="username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Masuk">Masuk</string>
+    <string name="Rekening">No.Rekening</string>
+    <string name="IdPengguna">ID Pengguna</string>
+    <string name="kataSandi">KataSandi</string>
+    <string name="kataSandi2">Konfirmasi katasandi</string>
+    <string name="selanjutnya">Selanjutnya</string>
+</resources>
